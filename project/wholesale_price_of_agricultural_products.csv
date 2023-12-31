@@ -1,0 +1,1105 @@
+year_month,product,price,category
+202308,Garlic moss,8.4,Vegetable
+202308,Zucchini,2.73,Vegetable
+202308,Lettuce,3.58,Vegetable
+202308,Celery,3.76,Vegetable
+202308,Rape,3.96,Vegetable
+202308,Pumpkin,2.55,Vegetable
+202308,Scallion,3.19,Vegetable
+202308,Glass lettuce,4.91,Vegetable
+202308,Cauliflower,3.76,Vegetable
+202308,Ginger,16.29,Vegetable
+202308,White radish,1.7,Vegetable
+202308,Green pepper,3.53,Vegetable
+202308,Tomato,3.35,Vegetable
+202308,Potato,3.06,Vegetable
+202308,Chinese cabbage,1.73,Vegetable
+202308,Onion,2.32,Vegetable
+202308,Eggplant,3.02,Vegetable
+202308,Cabbage,2.04,Vegetable
+202308,Cucumber,3.2,Vegetable
+202308,Lotus root,6.57,Vegetable
+202308,Beans,6.2,Vegetable
+202308,Garlic,10,Vegetable
+202308,Winter melon,1.86,Vegetable
+202308,Mushroom,12.89,Vegetable
+202308,Chinese chives,4.47,Vegetable
+202308,Carrot,2.54,Vegetable
+202308,Spinach,8.48,Vegetable
+202308,Oyster Mushroom,9.63,Vegetable
+202307,Eggplant,2.95,Vegetable
+202307,Oyster Mushroom,8.13,Vegetable
+202307,White radish,1.73,Vegetable
+202307,Cucumber,2.81,Vegetable
+202307,Green pepper,3.76,Vegetable
+202307,Zucchini,2.69,Vegetable
+202307,Lettuce,3.29,Vegetable
+202307,Chinese chives,3.8,Vegetable
+202307,Garlic moss,8.39,Vegetable
+202307,Rape,3.27,Vegetable
+202307,Winter melon,2.26,Vegetable
+202307,Lotus root,7.86,Vegetable
+202307,Garlic,10.04,Vegetable
+202307,Ginger,16.53,Vegetable
+202307,Glass lettuce,3.95,Vegetable
+202307,Carrot,2.79,Vegetable
+202307,Potato,3.09,Vegetable
+202307,Tomato,3.8,Vegetable
+202307,Cauliflower,4.35,Vegetable
+202307,Celery,4.02,Vegetable
+202307,Beans,6.57,Vegetable
+202307,Spinach,6.21,Vegetable
+202307,Cabbage,2,Vegetable
+202307,Chinese cabbage,1.81,Vegetable
+202307,Mushroom,12.44,Vegetable
+202307,Pumpkin,3,Vegetable
+202307,Scallion,3.02,Vegetable
+202307,Onion,2.21,Vegetable
+202306,Eggplant,3.76,Vegetable
+202306,Pumpkin,3.27,Vegetable
+202306,Zucchini,3.07,Vegetable
+202306,Winter melon,2.89,Vegetable
+202306,Chinese cabbage,1.98,Vegetable
+202306,Lettuce,3.44,Vegetable
+202306,Cucumber,3.23,Vegetable
+202306,White radish,1.73,Vegetable
+202306,Lotus root,7.08,Vegetable
+202306,Cauliflower,5.08,Vegetable
+202306,Green pepper,4.26,Vegetable
+202306,Rape,3,Vegetable
+202306,Tomato,4.03,Vegetable
+202306,Beans,7.42,Vegetable
+202306,Ginger,16.58,Vegetable
+202306,Scallion,3.2,Vegetable
+202306,Spinach,5.3,Vegetable
+202306,Celery,4.57,Vegetable
+202306,Carrot,2.61,Vegetable
+202306,Glass lettuce,3.93,Vegetable
+202306,Mushroom,12.29,Vegetable
+202306,Potato,3.42,Vegetable
+202306,Cabbage,2.14,Vegetable
+202306,Onion,2.1,Vegetable
+202306,Garlic,9.22,Vegetable
+202306,Chinese chives,3.75,Vegetable
+202306,Garlic moss,8.27,Vegetable
+202306,Oyster Mushroom,8,Vegetable
+202305,Glass lettuce,3.75,Vegetable
+202305,White radish,1.61,Vegetable
+202305,Cucumber,3.55,Vegetable
+202305,Chinese cabbage,1.52,Vegetable
+202305,Winter melon,2.4,Vegetable
+202305,Lettuce,3.34,Vegetable
+202305,Garlic moss,8,Vegetable
+202305,Oyster Mushroom,7.89,Vegetable
+202305,Garlic,8.28,Vegetable
+202305,Eggplant,4.7,Vegetable
+202305,Carrot,2.62,Vegetable
+202305,Zucchini,2.76,Vegetable
+202305,Rape,2.99,Vegetable
+202305,Lotus root,5.15,Vegetable
+202305,Onion,2.13,Vegetable
+202305,Tomato,4.43,Vegetable
+202305,Celery,3.81,Vegetable
+202305,Cabbage,1.87,Vegetable
+202305,Pumpkin,3.55,Vegetable
+202305,Spinach,4.61,Vegetable
+202305,Potato,3.75,Vegetable
+202305,Green pepper,4.97,Vegetable
+202305,Chinese chives,3.67,Vegetable
+202305,Mushroom,12.39,Vegetable
+202305,Ginger,15.55,Vegetable
+202305,Scallion,2.79,Vegetable
+202305,Cauliflower,4.28,Vegetable
+202305,Beans,8.83,Vegetable
+202304,Carrot,2.6,Vegetable
+202304,Chinese cabbage,1.23,Vegetable
+202304,Lettuce,3.45,Vegetable
+202304,Glass lettuce,4,Vegetable
+202304,Oyster Mushroom,7.46,Vegetable
+202304,Lotus root,4.97,Vegetable
+202304,Garlic moss,9.44,Vegetable
+202304,Onion,2.27,Vegetable
+202304,Tomato,6.1,Vegetable
+202304,Scallion,2.66,Vegetable
+202304,Chinese chives,4.04,Vegetable
+202304,White radish,1.66,Vegetable
+202304,Rape,3,Vegetable
+202304,Green pepper,5.57,Vegetable
+202304,Cabbage,1.82,Vegetable
+202304,Potato,3.42,Vegetable
+202304,Garlic,7.04,Vegetable
+202304,Cucumber,4.07,Vegetable
+202304,Beans,9.87,Vegetable
+202304,Mushroom,12.26,Vegetable
+202304,Spinach,4.32,Vegetable
+202304,Pumpkin,3.84,Vegetable
+202304,Eggplant,5.09,Vegetable
+202304,Zucchini,2.96,Vegetable
+202304,Winter melon,2.39,Vegetable
+202304,Celery,2.86,Vegetable
+202304,Ginger,13.14,Vegetable
+202304,Cauliflower,4.89,Vegetable
+202303,Lotus root,5.36,Vegetable
+202303,Spinach,5.31,Vegetable
+202303,Ginger,10.65,Vegetable
+202303,White radish,1.61,Vegetable
+202303,Celery,3.09,Vegetable
+202303,Chinese chives,4.98,Vegetable
+202303,Tomato,5.54,Vegetable
+202303,Scallion,3.02,Vegetable
+202303,Zucchini,4.19,Vegetable
+202303,Cucumber,5.65,Vegetable
+202303,Pumpkin,3.93,Vegetable
+202303,Garlic moss,10.94,Vegetable
+202303,Glass lettuce,5.86,Vegetable
+202303,Mushroom,12.26,Vegetable
+202303,Cabbage,2.18,Vegetable
+202303,Oyster Mushroom,7.34,Vegetable
+202303,Cauliflower,5.21,Vegetable
+202303,Onion,2.46,Vegetable
+202303,Green pepper,7.57,Vegetable
+202303,Eggplant,6.32,Vegetable
+202303,Carrot,2.54,Vegetable
+202303,Potato,3.33,Vegetable
+202303,Garlic,6.67,Vegetable
+202303,Winter melon,2.28,Vegetable
+202303,Chinese cabbage,1.2,Vegetable
+202303,Rape,4.52,Vegetable
+202303,Beans,11.32,Vegetable
+202303,Lettuce,3.74,Vegetable
+202302,Mushroom,12.57,Vegetable
+202302,Glass lettuce,7.99,Vegetable
+202302,Lettuce,3.69,Vegetable
+202302,Onion,2.53,Vegetable
+202302,Ginger,10.55,Vegetable
+202302,Carrot,2.55,Vegetable
+202302,Cucumber,7,Vegetable
+202302,Winter melon,2.11,Vegetable
+202302,Tomato,4.81,Vegetable
+202302,Beans,12.57,Vegetable
+202302,Pumpkin,3.83,Vegetable
+202302,Oyster Mushroom,7.91,Vegetable
+202302,Chinese chives,7.05,Vegetable
+202302,Cauliflower,5.02,Vegetable
+202302,Garlic moss,10.11,Vegetable
+202302,Garlic,6.85,Vegetable
+202301,Garlic,6.86,Vegetable
+202301,Onion,2.52,Vegetable
+202301,Garlic moss,9.28,Vegetable
+202301,Chinese chives,8.59,Vegetable
+202302,Spinach,7.69,Vegetable
+202301,Spinach,7.46,Vegetable
+202302,Lotus root,6.45,Vegetable
+202301,Lotus root,6.67,Vegetable
+202301,Cucumber,7.91,Vegetable
+202302,Rape,6.61,Vegetable
+202301,Rape,5.8,Vegetable
+202301,Pumpkin,3.68,Vegetable
+202301,Lettuce,3.71,Vegetable
+202301,Carrot,2.48,Vegetable
+202301,Beans,13.39,Vegetable
+202302,Potato,3.28,Vegetable
+202301,Potato,3.04,Vegetable
+202302,Green pepper,7.52,Vegetable
+202301,Green pepper,6.66,Vegetable
+202302,Chinese cabbage,1.23,Vegetable
+202301,Chinese cabbage,1.24,Vegetable
+202302,Eggplant,6.65,Vegetable
+202301,Eggplant,6.03,Vegetable
+202302,Cabbage,2.33,Vegetable
+202301,Cabbage,1.98,Vegetable
+202301,Cauliflower,5.1,Vegetable
+202301,Tomato,4.7,Vegetable
+202301,Ginger,9.97,Vegetable
+202301,White radish,1.61,Vegetable
+202301,Mushroom,12.59,Vegetable
+202301,Winter melon,1.84,Vegetable
+202302,Celery,3.28,Vegetable
+202301,Celery,3.3,Vegetable
+202301,Oyster Mushroom,7.62,Vegetable
+202301,Glass lettuce,6.66,Vegetable
+202301,Scallion,4.48,Vegetable
+202302,Zucchini,5.49,Vegetable
+202301,Zucchini,5.73,Vegetable
+202212,Chinese chives,6.25,Vegetable
+202212,Ginger,8.21,Vegetable
+202212,Scallion,4.2,Vegetable
+202212,White radish,1.49,Vegetable
+202212,Cauliflower,3.25,Vegetable
+202212,Tomato,4.36,Vegetable
+202212,Potato,2.92,Vegetable
+202212,Rape,3.83,Vegetable
+202212,Oyster Mushroom,6.82,Vegetable
+202212,Eggplant,4.75,Vegetable
+202212,Celery,2.89,Vegetable
+202212,Lettuce,2.85,Vegetable
+202212,Green pepper,4.02,Vegetable
+202212,Glass lettuce,4.31,Vegetable
+202212,Cabbage,1.52,Vegetable
+202212,Zucchini,4.39,Vegetable
+202212,Spinach,5.42,Vegetable
+202212,Beans,9.47,Vegetable
+202212,Onion,2.42,Vegetable
+202212,Garlic,6.5,Vegetable
+202212,Garlic moss,8.43,Vegetable
+202212,Mushroom,11.68,Vegetable
+202212,Lotus root,6.09,Vegetable
+202212,Cucumber,6.29,Vegetable
+202212,Pumpkin,3.58,Vegetable
+202212,Chinese cabbage,1.19,Vegetable
+202212,Carrot,2.43,Vegetable
+202212,Winter melon,1.77,Vegetable
+202211,Rape,2.72,Vegetable
+202211,Beans,6.87,Vegetable
+202211,Pumpkin,3.44,Vegetable
+202211,Green pepper,4.09,Vegetable
+202211,Garlic,6.44,Vegetable
+202211,Chinese cabbage,1.35,Vegetable
+202211,Onion,2.36,Vegetable
+202211,Zucchini,3.4,Vegetable
+202211,Garlic moss,8.38,Vegetable
+202211,Potato,2.84,Vegetable
+202211,Cauliflower,3.07,Vegetable
+202211,Cabbage,1.52,Vegetable
+202211,Scallion,4.4,Vegetable
+202211,Chinese chives,4.99,Vegetable
+202211,Eggplant,3.83,Vegetable
+202211,Cucumber,4.78,Vegetable
+202211,Lettuce,3.07,Vegetable
+202211,White radish,1.57,Vegetable
+202211,Carrot,2.58,Vegetable
+202211,Ginger,6.86,Vegetable
+202211,Tomato,4.76,Vegetable
+202211,Glass lettuce,3.69,Vegetable
+202211,Mushroom,11.86,Vegetable
+202211,Oyster Mushroom,5.92,Vegetable
+202211,Lotus root,6.34,Vegetable
+202211,Winter melon,1.76,Vegetable
+202211,Celery,3.1,Vegetable
+202211,Spinach,4.44,Vegetable
+202210,Eggplant,4.01,Vegetable
+202210,Spinach,6.02,Vegetable
+202210,Winter melon,1.81,Vegetable
+202210,Cucumber,3.87,Vegetable
+202210,White radish,1.96,Vegetable
+202210,Potato,2.66,Vegetable
+202210,Carrot,2.61,Vegetable
+202210,Celery,4.11,Vegetable
+202210,Pumpkin,3.18,Vegetable
+202210,Ginger,6.83,Vegetable
+202210,Green pepper,5.75,Vegetable
+202210,Cauliflower,4.74,Vegetable
+202210,Scallion,5.35,Vegetable
+202210,Glass lettuce,4.93,Vegetable
+202210,Cabbage,2.07,Vegetable
+202210,Garlic,6.73,Vegetable
+202210,Garlic moss,8.43,Vegetable
+202210,Lettuce,4.55,Vegetable
+202210,Mushroom,12.39,Vegetable
+202210,Beans,7.57,Vegetable
+202210,Rape,3.16,Vegetable
+202210,Oyster Mushroom,7.84,Vegetable
+202210,Zucchini,3.75,Vegetable
+202210,Chinese chives,5.32,Vegetable
+202210,Tomato,5.37,Vegetable
+202210,Onion,2.49,Vegetable
+202210,Chinese cabbage,1.85,Vegetable
+202210,Lotus root,6.82,Vegetable
+202209,Potato,2.55,Vegetable
+202209,Garlic moss,8.35,Vegetable
+202209,Scallion,5.84,Vegetable
+202209,Mushroom,12.75,Vegetable
+202209,Lotus root,7.34,Vegetable
+202209,Chinese cabbage,2.19,Vegetable
+202209,Rape,4.2,Vegetable
+202209,Green pepper,5.88,Vegetable
+202209,White radish,2.08,Vegetable
+202209,Oyster Mushroom,9.65,Vegetable
+202209,Glass lettuce,6.53,Vegetable
+202209,Lettuce,5.02,Vegetable
+202209,Garlic,6.66,Vegetable
+202209,Spinach,8.53,Vegetable
+202209,Tomato,4.26,Vegetable
+202209,Cauliflower,5.35,Vegetable
+202209,Onion,2.42,Vegetable
+202209,Celery,4.32,Vegetable
+202209,Beans,8.73,Vegetable
+202209,Cabbage,2.21,Vegetable
+202209,Ginger,6.74,Vegetable
+202209,Chinese chives,5.04,Vegetable
+202209,Winter melon,1.86,Vegetable
+202209,Cucumber,4.21,Vegetable
+202209,Zucchini,3.94,Vegetable
+202209,Carrot,2.63,Vegetable
+202209,Pumpkin,2.84,Vegetable
+202209,Eggplant,4.36,Vegetable
+202208,Garlic moss,7.86,Vegetable
+202208,Cabbage,1.95,Vegetable
+202208,Winter melon,1.79,Vegetable
+202208,Zucchini,3.05,Vegetable
+202208,Green pepper,4.4,Vegetable
+202208,Onion,2.39,Vegetable
+202208,Beans,6.47,Vegetable
+202208,Garlic,6.36,Vegetable
+202208,Scallion,5.22,Vegetable
+202208,Celery,3.89,Vegetable
+202208,Lotus root,8.1,Vegetable
+202208,Lettuce,3.77,Vegetable
+202208,White radish,1.68,Vegetable
+202208,Tomato,3.42,Vegetable
+202208,Chinese cabbage,1.8,Vegetable
+202208,Cauliflower,4.3,Vegetable
+202208,Oyster Mushroom,9.75,Vegetable
+202208,Glass lettuce,5.32,Vegetable
+202208,Ginger,5.61,Vegetable
+202208,Pumpkin,2.67,Vegetable
+202208,Rape,4.18,Vegetable
+202208,Chinese chives,5.09,Vegetable
+202208,Mushroom,12.64,Vegetable
+202208,Spinach,7.6,Vegetable
+202208,Carrot,2.7,Vegetable
+202208,Potato,2.57,Vegetable
+202208,Eggplant,3.53,Vegetable
+202208,Cucumber,4.97,Vegetable
+202207,White radish,1.58,Vegetable
+202207,Scallion,4.57,Vegetable
+202207,Onion,2.36,Vegetable
+202207,Green pepper,5.1,Vegetable
+202207,White radish,1.58,Vegetable
+202207,Zucchini,2.86,Vegetable
+202207,Pumpkin,2.72,Vegetable
+202207,Winter melon,1.88,Vegetable
+202207,Eggplant,3.68,Vegetable
+202207,Garlic moss,7.47,Vegetable
+202207,Garlic,6.02,Vegetable
+202207,Mushroom,12.17,Vegetable
+202207,Chinese chives,4.42,Vegetable
+202207,Oyster Mushroom,8.74,Vegetable
+202207,Carrot,2.74,Vegetable
+202207,Potato,2.46,Vegetable
+202207,Celery,3.92,Vegetable
+202207,Scallion,4.57,Vegetable
+202207,Cauliflower,4.56,Vegetable
+202207,Lotus root,9.46,Vegetable
+202207,Beans,6.32,Vegetable
+202207,Ginger,5.05,Vegetable
+202207,Tomato,3.49,Vegetable
+202207,Spinach,7.02,Vegetable
+202207,Cucumber,4.36,Vegetable
+202207,Chinese cabbage,1.64,Vegetable
+202207,Rape,4.25,Vegetable
+202206,Mushroom,11.69,Vegetable
+202206,Celery,3.16,Vegetable
+202206,Beans,5.92,Vegetable
+202206,Chinese chives,3.49,Vegetable
+202206,Lotus root,9.54,Vegetable
+202206,Cauliflower,3.24,Vegetable
+202206,Garlic moss,7.13,Vegetable
+202206,Eggplant,3.59,Vegetable
+202206,Oyster Mushroom,8.07,Vegetable
+202206,Chinese cabbage,1.53,Vegetable
+202206,Tomato,3.33,Vegetable
+202206,Rape,2.61,Vegetable
+202206,Carrot,2.85,Vegetable
+202206,Potato,2.42,Vegetable
+202206,Onion,2.26,Vegetable
+202207,Glass lettuce,4.35,Vegetable
+202206,Glass lettuce,3.32,Vegetable
+202207,Lettuce,3.41,Vegetable
+202206,Lettuce,2.96,Vegetable
+202206,Scallion,3.96,Vegetable
+202206,Spinach,4.87,Vegetable
+202206,Zucchini,2.46,Vegetable
+202206,White radish,1.58,Vegetable
+202206,Cucumber,2.54,Vegetable
+202206,Winter melon,2.2,Vegetable
+202206,Garlic,5.7,Vegetable
+202206,Ginger,4.8,Vegetable
+202207,Cabbage,1.87,Vegetable
+202206,Cabbage,1.57,Vegetable
+202206,Pumpkin,3.16,Vegetable
+202206,Green pepper,3.72,Vegetable
+202205,Celery,3.7,Vegetable
+202205,Tomato,5.26,Vegetable
+202205,Beans,7.89,Vegetable
+202205,White radish,1.83,Vegetable
+202205,Eggplant,4.76,Vegetable
+202205,Carrot,3.37,Vegetable
+202205,Cucumber,3.22,Vegetable
+202205,Lettuce,3.11,Vegetable
+202205,Green pepper,4.53,Vegetable
+202205,Cauliflower,3.57,Vegetable
+202205,Ginger,4.99,Vegetable
+202205,Mushroom,11.57,Vegetable
+202205,Garlic moss,6.79,Vegetable
+202205,Oyster Mushroom,7.49,Vegetable
+202205,Scallion,4.19,Vegetable
+202205,Chinese chives,3.57,Vegetable
+202205,Zucchini,2.95,Vegetable
+202205,Cabbage,1.93,Vegetable
+202205,Rape,2.76,Vegetable
+202205,Spinach,4.24,Vegetable
+202205,Winter melon,3.18,Vegetable
+202205,Garlic,6.25,Vegetable
+202205,Glass lettuce,3.59,Vegetable
+202205,Lotus root,7.57,Vegetable
+202205,Pumpkin,4.08,Vegetable
+202205,Onion,2.83,Vegetable
+202205,Chinese cabbage,1.92,Vegetable
+202205,Potato,2.71,Vegetable
+202204,Celery,4.34,Vegetable
+202204,Tomato,6.26,Vegetable
+202204,Beans,10.65,Vegetable
+202204,White radish,2.16,Vegetable
+202204,Eggplant,6.03,Vegetable
+202204,Carrot,3.3,Vegetable
+202204,Cucumber,4.86,Vegetable
+202204,Lettuce,3.52,Vegetable
+202204,Green pepper,7.75,Vegetable
+202204,Cauliflower,4.71,Vegetable
+202204,Ginger,5.23,Vegetable
+202204,Mushroom,11.57,Vegetable
+202204,Garlic moss,8.52,Vegetable
+202204,Oyster Mushroom,7.66,Vegetable
+202204,Scallion,6.54,Vegetable
+202204,Chinese chives,4.76,Vegetable
+202204,Zucchini,3.99,Vegetable
+202204,Cabbage,2.6,Vegetable
+202204,Rape,3.58,Vegetable
+202204,Spinach,4.64,Vegetable
+202204,Winter melon,4.8,Vegetable
+202204,Garlic,7.13,Vegetable
+202204,Glass lettuce,4.78,Vegetable
+202204,Lotus root,7.37,Vegetable
+202204,Pumpkin,4.25,Vegetable
+202204,Onion,3.13,Vegetable
+202204,Chinese cabbage,2.89,Vegetable
+202204,Potato,2.75,Vegetable
+202203,Celery,4.33,Vegetable
+202203,Tomato,7.09,Vegetable
+202203,Beans,13.52,Vegetable
+202203,White radish,1.84,Vegetable
+202203,Eggplant,6.91,Vegetable
+202203,Carrot,2.96,Vegetable
+202203,Cucumber,6.62,Vegetable
+202203,Lettuce,4.81,Vegetable
+202203,Green pepper,8.69,Vegetable
+202203,Cauliflower,4.57,Vegetable
+202203,Ginger,5.39,Vegetable
+202203,Mushroom,11.65,Vegetable
+202203,Garlic moss,11.61,Vegetable
+202203,Oyster Mushroom,6.89,Vegetable
+202203,Scallion,6.8,Vegetable
+202203,Chinese chives,6.39,Vegetable
+202203,Zucchini,4.98,Vegetable
+202203,Cabbage,2.63,Vegetable
+202203,Rape,3.84,Vegetable
+202203,Spinach,4.88,Vegetable
+202203,Winter melon,3.83,Vegetable
+202203,Garlic,7.32,Vegetable
+202203,Glass lettuce,5.5,Vegetable
+202203,Lotus root,7.14,Vegetable
+202203,Pumpkin,3.54,Vegetable
+202203,Onion,2.61,Vegetable
+202203,Chinese cabbage,2.57,Vegetable
+202203,Potato,2.38,Vegetable
+202202,Celery,4.44,Vegetable
+202202,Tomato,7.72,Vegetable
+202202,Beans,11.92,Vegetable
+202202,White radish,1.8,Vegetable
+202202,Eggplant,6.48,Vegetable
+202202,Carrot,3.33,Vegetable
+202202,Cucumber,7.09,Vegetable
+202202,Lettuce,4.95,Vegetable
+202202,Green pepper,7.08,Vegetable
+202202,Cauliflower,4.36,Vegetable
+202202,Ginger,5.68,Vegetable
+202202,Mushroom,12.11,Vegetable
+202202,Garlic moss,10.06,Vegetable
+202202,Oyster Mushroom,7.68,Vegetable
+202202,Scallion,6.01,Vegetable
+202202,Chinese chives,7.61,Vegetable
+202202,Zucchini,4.25,Vegetable
+202202,Cabbage,2.5,Vegetable
+202202,Rape,3.98,Vegetable
+202202,Spinach,6.21,Vegetable
+202202,Winter melon,2.83,Vegetable
+202202,Garlic,7.64,Vegetable
+202202,Glass lettuce,5.48,Vegetable
+202202,Lotus root,8.03,Vegetable
+202202,Pumpkin,3.28,Vegetable
+202202,Onion,2.51,Vegetable
+202202,Chinese cabbage,2.07,Vegetable
+202202,Potato,2.34,Vegetable
+202201,Celery,4.09,Vegetable
+202201,Tomato,8.15,Vegetable
+202201,Beans,9.99,Vegetable
+202201,White radish,1.89,Vegetable
+202201,Eggplant,5.99,Vegetable
+202201,Carrot,3.44,Vegetable
+202201,Cucumber,6.79,Vegetable
+202201,Lettuce,3.92,Vegetable
+202201,Green pepper,6.48,Vegetable
+202201,Cauliflower,3.99,Vegetable
+202201,Ginger,5.8,Vegetable
+202201,Mushroom,11.12,Vegetable
+202201,Garlic moss,8.91,Vegetable
+202201,Oyster Mushroom,6.88,Vegetable
+202201,Scallion,5.71,Vegetable
+202201,Chinese chives,6.29,Vegetable
+202201,Zucchini,4.09,Vegetable
+202201,Cabbage,2.63,Vegetable
+202201,Rape,3.5,Vegetable
+202201,Spinach,5.5,Vegetable
+202201,Winter melon,2.84,Vegetable
+202201,Garlic,7.7,Vegetable
+202201,Glass lettuce,4.7,Vegetable
+202201,Lotus root,6.88,Vegetable
+202201,Pumpkin,3.18,Vegetable
+202201,Onion,2.44,Vegetable
+202201,Chinese cabbage,1.96,Vegetable
+202201,Potato,2.32,Vegetable
+202112,Celery,4.72,Vegetable
+202112,Tomato,5.82,Vegetable
+202112,Beans,9.04,Vegetable
+202112,White radish,2.15,Vegetable
+202112,Eggplant,5.61,Vegetable
+202112,Carrot,3.35,Vegetable
+202112,Cucumber,5.87,Vegetable
+202112,Lettuce,3.66,Vegetable
+202112,Green pepper,6.16,Vegetable
+202112,Cauliflower,6.21,Vegetable
+202112,Ginger,6.18,Vegetable
+202112,Mushroom,10.93,Vegetable
+202112,Garlic moss,8.61,Vegetable
+202112,Oyster Mushroom,6.63,Vegetable
+202112,Scallion,5.54,Vegetable
+202112,Chinese chives,6.5,Vegetable
+202112,Zucchini,4.04,Vegetable
+202112,Cabbage,3.06,Vegetable
+202112,Rape,3.85,Vegetable
+202112,Spinach,6.07,Vegetable
+202112,Winter melon,2.66,Vegetable
+202112,Garlic,7.91,Vegetable
+202112,Glass lettuce,5.35,Vegetable
+202112,Lotus root,6.42,Vegetable
+202112,Pumpkin,2.95,Vegetable
+202112,Onion,2.59,Vegetable
+202112,Chinese cabbage,2.07,Vegetable
+202112,Potato,2.38,Vegetable
+202111,Celery,5.92,Vegetable
+202111,Tomato,5.17,Vegetable
+202111,Beans,9.85,Vegetable
+202111,White radish,2.58,Vegetable
+202111,Eggplant,6.25,Vegetable
+202111,Carrot,3.17,Vegetable
+202111,Cucumber,7.22,Vegetable
+202111,Lettuce,4.25,Vegetable
+202111,Green pepper,6.86,Vegetable
+202111,Cauliflower,7.32,Vegetable
+202111,Ginger,6.58,Vegetable
+202111,Mushroom,11.49,Vegetable
+202111,Garlic moss,8.41,Vegetable
+202111,Oyster Mushroom,7.11,Vegetable
+202111,Scallion,6.32,Vegetable
+202111,Chinese chives,6.23,Vegetable
+202111,Zucchini,5.31,Vegetable
+202111,Cabbage,3.77,Vegetable
+202111,Rape,4.68,Vegetable
+202111,Spinach,8.28,Vegetable
+202111,Winter melon,2.21,Vegetable
+202111,Garlic,8.11,Vegetable
+202111,Glass lettuce,6.45,Vegetable
+202111,Lotus root,6.61,Vegetable
+202111,Pumpkin,2.58,Vegetable
+202111,Onion,2.66,Vegetable
+202111,Chinese cabbage,2.51,Vegetable
+202111,Potato,2.39,Vegetable
+202110,Celery,5.13,Vegetable
+202110,Tomato,4.54,Vegetable
+202110,Beans,7.85,Vegetable
+202110,White radish,2.66,Vegetable
+202110,Eggplant,4.87,Vegetable
+202110,Carrot,2.56,Vegetable
+202110,Cucumber,7.18,Vegetable
+202110,Lettuce,4.37,Vegetable
+202110,Green pepper,4.68,Vegetable
+202110,Cauliflower,5.11,Vegetable
+202110,Ginger,6.89,Vegetable
+202110,Mushroom,11.64,Vegetable
+202110,Garlic moss,7.72,Vegetable
+202110,Oyster Mushroom,8.02,Vegetable
+202110,Scallion,4.79,Vegetable
+202110,Chinese chives,5.28,Vegetable
+202110,Zucchini,5.32,Vegetable
+202110,Cabbage,2.81,Vegetable
+202110,Rape,4.94,Vegetable
+202110,Spinach,9.72,Vegetable
+202110,Winter melon,1.7,Vegetable
+202110,Garlic,7.7,Vegetable
+202110,Glass lettuce,5.85,Vegetable
+202110,Lotus root,6.86,Vegetable
+202110,Pumpkin,2.2,Vegetable
+202110,Onion,2.36,Vegetable
+202110,Chinese cabbage,2.07,Vegetable
+202110,Potato,2.19,Vegetable
+202109,Celery,4.49,Vegetable
+202109,Tomato,4.06,Vegetable
+202109,Beans,6.01,Vegetable
+202109,White radish,1.79,Vegetable
+202109,Eggplant,3.39,Vegetable
+202109,Carrot,2.33,Vegetable
+202109,Cucumber,4,Vegetable
+202109,Lettuce,4.01,Vegetable
+202109,Green pepper,3.93,Vegetable
+202109,Cauliflower,4.48,Vegetable
+202109,Ginger,7.45,Vegetable
+202109,Mushroom,11.36,Vegetable
+202109,Garlic moss,7.24,Vegetable
+202109,Oyster Mushroom,7.86,Vegetable
+202109,Scallion,3.89,Vegetable
+202109,Chinese chives,4.15,Vegetable
+202109,Zucchini,3.47,Vegetable
+202109,Cabbage,1.97,Vegetable
+202109,Rape,3.95,Vegetable
+202109,Spinach,6.69,Vegetable
+202109,Winter melon,1.49,Vegetable
+202109,Garlic,7.29,Vegetable
+202109,Glass lettuce,5.07,Vegetable
+202109,Lotus root,7.3,Vegetable
+202109,Pumpkin,2.13,Vegetable
+202109,Onion,2.3,Vegetable
+202109,Chinese cabbage,1.91,Vegetable
+202109,Potato,2.12,Vegetable
+202308,Big hairtail,37.93,Aquatic products
+202308,Silver carp,9.3,Aquatic products
+202308,Big croaker,43.37,Aquatic products
+202308,Grass carp,15.96,Aquatic products
+202308,Carp,14.19,Aquatic products
+202308,Bighead carp,17.46,Aquatic products
+202308,Crucian carp,19.31,Aquatic products
+202307,Big croaker,42.07,Aquatic products
+202307,Grass carp,15.95,Aquatic products
+202307,Crucian carp,18.86,Aquatic products
+202307,Bighead carp,17.34,Aquatic products
+202307,Big hairtail,37.7,Aquatic products
+202307,Carp,14.23,Aquatic products
+202307,Silver carp,9.05,Aquatic products
+202306,Silver carp,9.17,Aquatic products
+202306,Crucian carp,18.53,Aquatic products
+202306,Carp,14.23,Aquatic products
+202306,Grass carp,16.06,Aquatic products
+202306,Big croaker,42.5,Aquatic products
+202306,Big hairtail,37.93,Aquatic products
+202306,Bighead carp,17.72,Aquatic products
+202305,Silver carp,9.06,Aquatic products
+202305,Carp,13.35,Aquatic products
+202305,Bighead carp,17.3,Aquatic products
+202305,Crucian carp,18.14,Aquatic products
+202305,Big croaker,42.08,Aquatic products
+202305,Grass carp,15.75,Aquatic products
+202305,Big hairtail,38.19,Aquatic products
+202304,Bighead carp,16.83,Aquatic products
+202304,Carp,12.89,Aquatic products
+202304,Big hairtail,38.5,Aquatic products
+202304,Grass carp,15.29,Aquatic products
+202304,Silver carp,8.87,Aquatic products
+202304,Big croaker,42.25,Aquatic products
+202304,Crucian carp,17.84,Aquatic products
+202303,Big croaker,41.77,Aquatic products
+202303,Carp,12.99,Aquatic products
+202303,Big hairtail,39.16,Aquatic products
+202303,Crucian carp,17.69,Aquatic products
+202303,Bighead carp,16.38,Aquatic products
+202303,Silver carp,9.08,Aquatic products
+202303,Grass carp,15.41,Aquatic products
+202302,Big hairtail,39.04,Aquatic products
+202302,Crucian carp,18.25,Aquatic products
+202302,Silver carp,9.42,Aquatic products
+202302,Carp,13.54,Aquatic products
+202302,Bighead carp,16.68,Aquatic products
+202302,Big croaker,42.04,Aquatic products
+202302,Grass carp,15.9,Aquatic products
+202301,Grass carp,16.47,Aquatic products
+202301,Silver carp,9.66,Aquatic products
+202301,Carp,13.84,Aquatic products
+202301,Bighead carp,16.65,Aquatic products
+202301,Big hairtail,38.41,Aquatic products
+202301,Crucian carp,18.98,Aquatic products
+202301,Big croaker,42.68,Aquatic products
+202212,Bighead carp,16.48,Aquatic products
+202212,Big hairtail,37.28,Aquatic products
+202212,Carp,13.76,Aquatic products
+202212,Big croaker,42.69,Aquatic products
+202212,Crucian carp,19.03,Aquatic products
+202212,Grass carp,16.39,Aquatic products
+202212,Silver carp,9.62,Aquatic products
+202211,Big hairtail,37.07,Aquatic products
+202211,Grass carp,16.6,Aquatic products
+202211,Crucian carp,18.95,Aquatic products
+202211,Silver carp,9.45,Aquatic products
+202211,Big croaker,41.58,Aquatic products
+202211,Carp,13.99,Aquatic products
+202211,Bighead carp,16.83,Aquatic products
+202210,Crucian carp,19.61,Aquatic products
+202210,Carp,14.34,Aquatic products
+202210,Bighead carp,17.82,Aquatic products
+202210,Big hairtail,38.16,Aquatic products
+202210,Big croaker,43.52,Aquatic products
+202210,Silver carp,9.47,Aquatic products
+202210,Grass carp,16.87,Aquatic products
+202209,Crucian carp,20.37,Aquatic products
+202209,Bighead carp,18.31,Aquatic products
+202209,Big hairtail,38.47,Aquatic products
+202209,Grass carp,17.09,Aquatic products
+202209,Carp,14.67,Aquatic products
+202209,Silver carp,9.8,Aquatic products
+202209,Big croaker,43.56,Aquatic products
+202208,Crucian carp,20.45,Aquatic products
+202208,Bighead carp,18.38,Aquatic products
+202208,Carp,14.79,Aquatic products
+202208,Grass carp,16.84,Aquatic products
+202208,Big croaker,43,Aquatic products
+202208,Big hairtail,38.3,Aquatic products
+202208,Silver carp,9.81,Aquatic products
+202207,Crucian carp,20.37,Aquatic products
+202207,Silver carp,9.8,Aquatic products
+202207,Big croaker,43.91,Aquatic products
+202207,Carp,14.68,Aquatic products
+202207,Big hairtail,40.92,Aquatic products
+202207,Bighead carp,18.73,Aquatic products
+202207,Grass carp,16.85,Aquatic products
+202206,Silver carp,10.07,Aquatic products
+202206,Crucian carp,20.54,Aquatic products
+202206,Carp,14.83,Aquatic products
+202206,Big hairtail,42.26,Aquatic products
+202206,Bighead carp,19.01,Aquatic products
+202206,Grass carp,17.11,Aquatic products
+202206,Big croaker,43.96,Aquatic products
+202205,Grass carp,17.45,Aquatic products
+202205,Carp,14.97,Aquatic products
+202205,Big hairtail,43.12,Aquatic products
+202205,Bighead carp,18.9,Aquatic products
+202205,Silver carp,10.08,Aquatic products
+202205,Crucian carp,21.23,Aquatic products
+202205,Big croaker,44.1,Aquatic products
+202204,Grass carp,17.64,Aquatic products
+202204,Carp,15.4,Aquatic products
+202204,Big hairtail,43.01,Aquatic products
+202204,Bighead carp,19.15,Aquatic products
+202204,Silver carp,10.25,Aquatic products
+202204,Crucian carp,20.81,Aquatic products
+202204,Big croaker,44.83,Aquatic products
+202203,Grass carp,16.91,Aquatic products
+202203,Carp,15.08,Aquatic products
+202203,Big hairtail,42.48,Aquatic products
+202203,Bighead carp,17.77,Aquatic products
+202203,Silver carp,10.05,Aquatic products
+202203,Crucian carp,19.92,Aquatic products
+202203,Big croaker,44.72,Aquatic products
+202202,Grass carp,17.54,Aquatic products
+202202,Carp,15.71,Aquatic products
+202202,Big hairtail,44.64,Aquatic products
+202202,Bighead carp,17.3,Aquatic products
+202202,Silver carp,10.49,Aquatic products
+202202,Crucian carp,19.75,Aquatic products
+202202,Big croaker,43.59,Aquatic products
+202201,Grass carp,17.68,Aquatic products
+202201,Carp,15.7,Aquatic products
+202201,Big hairtail,42.76,Aquatic products
+202201,Bighead carp,17.93,Aquatic products
+202201,Silver carp,10.59,Aquatic products
+202201,Crucian carp,19.59,Aquatic products
+202201,Big croaker,43.16,Aquatic products
+202112,Grass carp,17.95,Aquatic products
+202112,Carp,15.92,Aquatic products
+202112,Big hairtail,40.04,Aquatic products
+202112,Bighead carp,18.17,Aquatic products
+202112,Silver carp,10.9,Aquatic products
+202112,Crucian carp,20.18,Aquatic products
+202112,Big croaker,43.5,Aquatic products
+202111,Grass carp,18.16,Aquatic products
+202111,Carp,15.71,Aquatic products
+202111,Big hairtail,40.64,Aquatic products
+202111,Bighead carp,18.16,Aquatic products
+202111,Silver carp,11.25,Aquatic products
+202111,Crucian carp,20.29,Aquatic products
+202111,Big croaker,41.8,Aquatic products
+202110,Grass carp,19.18,Aquatic products
+202110,Carp,15.91,Aquatic products
+202110,Big hairtail,39.01,Aquatic products
+202110,Bighead carp,18.97,Aquatic products
+202110,Silver carp,11.43,Aquatic products
+202110,Crucian carp,20.97,Aquatic products
+202110,Big croaker,43.3,Aquatic products
+202109,Grass carp,20.55,Aquatic products
+202109,Carp,16.21,Aquatic products
+202109,Big hairtail,41.44,Aquatic products
+202109,Bighead carp,19.49,Aquatic products
+202109,Silver carp,11.63,Aquatic products
+202109,Crucian carp,22.06,Aquatic products
+202109,Big croaker,44.13,Aquatic products
+202308,Pear,6.94,Fruit
+202308,Pineapple,6.35,Fruit
+202308,Banana,5.82,Fruit
+202308,Watermelon,2.43,Fruit
+202308,Apple,9.27,Fruit
+202308,Grape,11.81,Fruit
+202307,Apple,9.26,Fruit
+202307,Watermelon,3.15,Fruit
+202307,Pineapple,6.42,Fruit
+202307,Pear,7.28,Fruit
+202307,Banana,6.02,Fruit
+202307,Grape,13.13,Fruit
+202306,Banana,6.49,Fruit
+202306,Pineapple,5.94,Fruit
+202306,Pear,7.55,Fruit
+202306,Apple,9.23,Fruit
+202306,Grape,15.61,Fruit
+202306,Watermelon,4.01,Fruit
+202305,Apple,9.14,Fruit
+202305,Banana,6.46,Fruit
+202305,Grape,14.76,Fruit
+202305,Watermelon,5.21,Fruit
+202305,Pear,7.51,Fruit
+202305,Pineapple,5.26,Fruit
+202304,Pineapple,5.15,Fruit
+202304,Watermelon,6.6,Fruit
+202304,Banana,6.51,Fruit
+202304,Grape,12.94,Fruit
+202304,Apple,8.92,Fruit
+202304,Pear,7.26,Fruit
+202303,Pear,7.6,Fruit
+202303,Pineapple,5.2,Fruit
+202303,Grape,12.01,Fruit
+202303,Watermelon,7.31,Fruit
+202303,Banana,6.33,Fruit
+202303,Apple,8.88,Fruit
+202302,Pineapple,5.39,Fruit
+202302,Watermelon,6.11,Fruit
+202302,Banana,6.19,Fruit
+202302,Grape,11.09,Fruit
+202302,Apple,8.73,Fruit
+202302,Pear,7.64,Fruit
+202301,Pineapple,5.61,Fruit
+202301,Watermelon,5.72,Fruit
+202301,Pear,7.83,Fruit
+202301,Apple,8.83,Fruit
+202301,Banana,6.07,Fruit
+202301,Grape,10.99,Fruit
+202212,Pear,6.09,Fruit
+202212,Apple,8.42,Fruit
+202212,Pineapple,5.6,Fruit
+202212,Grape,10.68,Fruit
+202212,Watermelon,4.77,Fruit
+202212,Banana,5.9,Fruit
+202211,Pineapple,5.41,Fruit
+202211,Watermelon,4.03,Fruit
+202211,Grape,10.98,Fruit
+202211,Pear,5.66,Fruit
+202211,Apple,8.4,Fruit
+202211,Banana,5.58,Fruit
+202210,Banana,5.5,Fruit
+202210,Apple,8.32,Fruit
+202210,Grape,10.8,Fruit
+202210,Pear,5.44,Fruit
+202210,Pineapple,5.43,Fruit
+202210,Watermelon,3.51,Fruit
+202209,Pear,5.9,Fruit
+202209,Banana,5.68,Fruit
+202209,Pineapple,5.54,Fruit
+202209,Grape,10.72,Fruit
+202209,Watermelon,3.37,Fruit
+202209,Apple,8.51,Fruit
+202208,Apple,8.41,Fruit
+202208,Banana,5.76,Fruit
+202208,Pear,6.31,Fruit
+202208,Grape,11.57,Fruit
+202208,Pineapple,5.54,Fruit
+202208,Watermelon,3.11,Fruit
+202207,Pineapple,5.45,Fruit
+202207,Grape,12.5,Fruit
+202207,Apple,8.31,Fruit
+202207,Banana,5.9,Fruit
+202207,Watermelon,3.16,Fruit
+202207,Pear,6.83,Fruit
+202206,Apple,8.13,Fruit
+202206,Banana,6.42,Fruit
+202206,Grape,13.22,Fruit
+202206,Watermelon,3.9,Fruit
+202206,Pear,6.43,Fruit
+202206,Pineapple,5.36,Fruit
+202205,Grape,12.65,Fruit
+202205,Pear,6.3,Fruit
+202205,Watermelon,5.95,Fruit
+202205,Pineapple,5.25,Fruit
+202205,Apple,7.88,Fruit
+202205,Banana,6.78,Fruit
+202204,Grape,12.08,Fruit
+202204,Pear,5.51,Fruit
+202204,Watermelon,7.72,Fruit
+202204,Pineapple,5.34,Fruit
+202204,Apple,7.26,Fruit
+202204,Banana,6.6,Fruit
+202203,Grape,10.02,Fruit
+202203,Pear,4.74,Fruit
+202203,Watermelon,7.13,Fruit
+202203,Pineapple,5.65,Fruit
+202203,Apple,6.91,Fruit
+202203,Banana,6.36,Fruit
+202202,Grape,10.23,Fruit
+202202,Pear,4.76,Fruit
+202202,Watermelon,7.68,Fruit
+202202,Pineapple,5.86,Fruit
+202202,Apple,6.92,Fruit
+202202,Banana,6.43,Fruit
+202201,Grape,9.06,Fruit
+202201,Pear,4.29,Fruit
+202201,Watermelon,7.66,Fruit
+202201,Pineapple,6.25,Fruit
+202201,Apple,6.62,Fruit
+202201,Banana,6.13,Fruit
+202112,Grape,8.68,Fruit
+202112,Pear,3.98,Fruit
+202112,Watermelon,6.02,Fruit
+202112,Pineapple,6.45,Fruit
+202112,Apple,6.66,Fruit
+202112,Banana,5.57,Fruit
+202111,Grape,8.27,Fruit
+202111,Pear,3.92,Fruit
+202111,Watermelon,5.23,Fruit
+202111,Pineapple,6.81,Fruit
+202111,Apple,6.63,Fruit
+202111,Banana,5.19,Fruit
+202110,Grape,8,Fruit
+202110,Pear,3.95,Fruit
+202110,Watermelon,3.85,Fruit
+202110,Pineapple,6.6,Fruit
+202110,Apple,6.67,Fruit
+202110,Banana,4.68,Fruit
+202109,Grape,8.35,Fruit
+202109,Pear,4,Fruit
+202109,Watermelon,2.69,Fruit
+202109,Pineapple,6.24,Fruit
+202109,Apple,6.62,Fruit
+202109,Banana,4.77,Fruit
+202308,Chicken,18.19,Livestock and poultry products
+202308,Beef,71.14,Livestock and poultry products
+202308,Egg,11.13,Livestock and poultry products
+202308,Mutton,63.72,Livestock and poultry products
+202308,Pork,22.56,Livestock and poultry products
+202307,Pork,19.15,Livestock and poultry products
+202307,Egg,9.7,Livestock and poultry products
+202307,Beef,71.08,Livestock and poultry products
+202307,Mutton,63.86,Livestock and poultry products
+202307,Chicken,17.72,Livestock and poultry products
+202306,Chicken,17.85,Livestock and poultry products
+202306,Beef,73.72,Livestock and poultry products
+202306,Mutton,65.89,Livestock and poultry products
+202306,Egg,9.83,Livestock and poultry products
+202306,Pork,19.12,Livestock and poultry products
+202305,Egg,10.24,Livestock and poultry products
+202305,Mutton,67.64,Livestock and poultry products
+202305,Beef,75.97,Livestock and poultry products
+202305,Pork,19.46,Livestock and poultry products
+202305,Chicken,18.14,Livestock and poultry products
+202304,Beef,76.54,Livestock and poultry products
+202304,Mutton,68.34,Livestock and poultry products
+202304,Pork,19.56,Livestock and poultry products
+202304,Egg,10.48,Livestock and poultry products
+202304,Chicken,18.23,Livestock and poultry products
+202303,Chicken,18.33,Livestock and poultry products
+202303,Egg,10.47,Livestock and poultry products
+202303,Beef,77.02,Livestock and poultry products
+202303,Mutton,68.87,Livestock and poultry products
+202303,Pork,20.6,Livestock and poultry products
+202302,Mutton,68.65,Livestock and poultry products
+202302,Egg,10.32,Livestock and poultry products
+202302,Chicken,18.41,Livestock and poultry products
+202302,Beef,77.23,Livestock and poultry products
+202302,Pork,20.97,Livestock and poultry products
+202301,Chicken,18.68,Livestock and poultry products
+202301,Mutton,68.48,Livestock and poultry products
+202301,Pork,23.72,Livestock and poultry products
+202301,Egg,11.01,Livestock and poultry products
+202301,Beef,77.88,Livestock and poultry products
+202212,Pork,29.22,Livestock and poultry products
+202212,Mutton,67.76,Livestock and poultry products
+202212,Chicken,18.95,Livestock and poultry products
+202212,Egg,11.73,Livestock and poultry products
+202212,Beef,77.65,Livestock and poultry products
+202211,Egg,12.32,Livestock and poultry products
+202211,Chicken,19.05,Livestock and poultry products
+202211,Mutton,67.29,Livestock and poultry products
+202211,Beef,77.74,Livestock and poultry products
+202211,Pork,33.88,Livestock and poultry products
+202210,Egg,12.16,Livestock and poultry products
+202210,Chicken,19.19,Livestock and poultry products
+202210,Mutton,67.36,Livestock and poultry products
+202210,Beef,77.91,Livestock and poultry products
+202210,Pork,34.16,Livestock and poultry products
+202209,Egg,11.64,Livestock and poultry products
+202209,Chicken,19.03,Livestock and poultry products
+202209,Beef,77.27,Livestock and poultry products
+202209,Mutton,67.4,Livestock and poultry products
+202209,Pork,30.82,Livestock and poultry products
+202208,Mutton,67.01,Livestock and poultry products
+202208,Pork,29.11,Livestock and poultry products
+202208,Egg,10.65,Livestock and poultry products
+202208,Chicken,18.77,Livestock and poultry products
+202208,Beef,76.76,Livestock and poultry products
+202207,Mutton,66.17,Livestock and poultry products
+202207,Beef,77.13,Livestock and poultry products
+202207,Pork,29.1,Livestock and poultry products
+202207,Chicken,18.21,Livestock and poultry products
+202207,Egg,9.95,Livestock and poultry products
+202206,Mutton,66.73,Livestock and poultry products
+202206,Egg,9.82,Livestock and poultry products
+202206,Pork,21.57,Livestock and poultry products
+202206,Chicken,18.02,Livestock and poultry products
+202206,Beef,77.64,Livestock and poultry products
+202205,Beef,77.73,Livestock and poultry products
+202205,Mutton,68.24,Livestock and poultry products
+202205,Chicken,17.8,Livestock and poultry products
+202205,Egg,10.49,Livestock and poultry products
+202205,Pork,20.68,Livestock and poultry products
+202204,Beef,77.5,Livestock and poultry products
+202204,Mutton,70.04,Livestock and poultry products
+202204,Chicken,17.96,Livestock and poultry products
+202204,Egg,10.15,Livestock and poultry products
+202204,Pork,18.59,Livestock and poultry products
+202203,Beef,77.99,Livestock and poultry products
+202203,Mutton,71.27,Livestock and poultry products
+202203,Chicken,17.27,Livestock and poultry products
+202203,Egg,9.11,Livestock and poultry products
+202203,Pork,18.97,Livestock and poultry products
+202202,Beef,78.29,Livestock and poultry products
+202202,Mutton,72.61,Livestock and poultry products
+202202,Chicken,17.5,Livestock and poultry products
+202202,Egg,9.06,Livestock and poultry products
+202202,Pork,21.46,Livestock and poultry products
+202201,Beef,77.33,Livestock and poultry products
+202201,Mutton,72.02,Livestock and poultry products
+202201,Chicken,17.42,Livestock and poultry products
+202201,Egg,9.75,Livestock and poultry products
+202201,Pork,22.7,Livestock and poultry products
+202112,Beef,77.21,Livestock and poultry products
+202112,Mutton,71.56,Livestock and poultry products
+202112,Chicken,17.38,Livestock and poultry products
+202112,Egg,10.1,Livestock and poultry products
+202112,Pork,24,Livestock and poultry products
+202111,Beef,76.99,Livestock and poultry products
+202111,Mutton,70.59,Livestock and poultry products
+202111,Chicken,16.92,Livestock and poultry products
+202111,Egg,10.6,Livestock and poultry products
+202111,Pork,23.98,Livestock and poultry products
+202110,Beef,76.67,Livestock and poultry products
+202110,Mutton,70.24,Livestock and poultry products
+202110,Chicken,16.88,Livestock and poultry products
+202110,Egg,9.99,Livestock and poultry products
+202110,Pork,19.51,Livestock and poultry products
+202109,Beef,76.55,Livestock and poultry products
+202109,Mutton,70.46,Livestock and poultry products
+202109,Chicken,16.91,Livestock and poultry products
+202109,Egg,10.47,Livestock and poultry products
+202109,Pork,19.94,Livestock and poultry products
